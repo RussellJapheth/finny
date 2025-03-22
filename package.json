@@ -48,5 +48,9 @@
 		"onlyBuiltDependencies": [
 			"esbuild"
 		]
+	},
+	"dependencies": {
+		"@sveltejs/adapter-netlify": "^5.0.0",
+		"chart.js": "^4.4.8"
 	}
 }
